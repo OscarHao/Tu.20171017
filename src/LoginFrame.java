@@ -46,6 +46,13 @@ public class LoginFrame extends JFrame {
                 System.exit(0);
             }
         });
+        cp.add(jLabelID);
+        cp.add(jLabelPw);
+        cp.add(jtfID);
+        cp.add(jpsf);
+        cp.add(jbExit);
+        cp.add(jbLog);
+
 
 
     }
